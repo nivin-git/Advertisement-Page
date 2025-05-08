@@ -1,0 +1,104 @@
+body{
+    background-color:silver;    
+}
+header{
+    display: flex;
+    background-color: black;
+}
+#box1 img{
+    padding: 10px;
+}
+#box2 ul a{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    color:aliceblue;
+}
+#box2{
+    background-image: linear-gradient(black,rgba(255, 153, 0, 0.966));
+}
+#box2 ul li{
+    color: aliceblue;
+}
+nav ul{
+    display: flex;
+    margin-top: 50px;
+}
+#Home{
+    background-image: ;
+    text-align: center;
+}
+#About div{
+    display: flex;
+}
+#About h2{
+    text-align: center;
+}
+#About img{
+    margin-right: 100px;
+    margin-left: 10px;
+    border-radius: 30%;
+}
+#Model h2{
+    text-align: center;
+}
+#Model div{
+    display: flex
+}
+#Advertisment h2{
+    text-align: center;
+}
+#Advertisment iframe{
+    height: 500px;
+    width: 1000px;
+    margin-right: 227px;
+}
+#Review h2{
+    text-align: center;
+}
+#Review {
+   background-color:rgb(155, 151, 146);
+   display: flex;
+   justify-content: space-between;
+   padding: 20px;
+}
+#Review div #box3{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:bisque;
+}
+#Review div #box4{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:bisque;
+}
+#Review div #box5{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:bisque;
+}
+#Review div img{
+    border-radius: 50%;
+}
+#Info{
+    background-image:url('lam8.jpeg') ;
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+#Info h2{
+    text-align: center;
+}
+#Info div{
+    display: flex;
+}
+#Info iframe{
+    padding-right: 190px;
+}
+#Info #box3{
+    background-color: rgb(216, 202, 187);
+}
+#Contact{
+    text-align: center;
+    color: aliceblue;
+    background-image: linear-gradient(black,rgba(255, 153, 0, 0.966));
+}
